@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vivek9Chavan
-- 👀 I’m interested in Mechanical Engineering, Machine Learning
-- 🌱 I’m currently working on my Master's Thesis
+- 👀 I’m interested in Engineering, Machine Learning/AI
+- 🌱 I’m currently working on my Master's Thesis: Green Incremental Learning
 - 📫 vivek.chavan@rwth-aachen.de
 
 <!---
